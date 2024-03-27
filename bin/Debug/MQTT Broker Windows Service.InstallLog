@@ -1,0 +1,19 @@
+﻿Uninstalling assembly 'C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.InstallLog
+   assemblypath = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe assembly.
+Installing assembly 'C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.InstallLog
+   assemblypath = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.InstallLog
+   assemblypath = C:\Users\VANSHIKA\Desktop\coding_world\Internship\MQTT Broker Windows Service\bin\Debug\MQTT Broker Windows Service.exe
